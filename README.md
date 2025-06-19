@@ -24,6 +24,9 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 **Projects:**  
 - [AI-Driven Task Management Platform (MERN, Next.js, OpenAI)](https://github.com/manikD1/AI-Driven-Task-Management-Platform)
